@@ -1,4 +1,4 @@
-# Astroweb.0
+# Astroweb
 A website to learn about astronomy and the cosmos, this is also my first website 
 
 ## Description ##
